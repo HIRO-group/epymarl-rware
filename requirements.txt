@@ -18,7 +18,6 @@ pygame
 pyparsing
 pytest
 python-dateutil
-PyYAML==5.3.1
 requests
 sacred
 seaborn
